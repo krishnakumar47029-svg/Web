@@ -1,0 +1,42 @@
+/* CSS content of the previous HTML code given *\
+
+
+body{
+  background-color:gray;
+}
+
+.container{
+  background-color:white;
+  width:500px;
+  text-align:center;
+  margin-left:350px;
+  border-radius:15%;
+}
+
+.content button{
+  background:linear-gradient(to right,gray,red);
+  padding:12px;
+}
+
+#dataForm input{
+  padding:10px;
+}
+
+#dataForm button{
+  padding:8px;
+  width:80px;
+  background:linear-gradient(to right,blue,green);
+  color:white;
+}
+
+footer{
+  margin-top:40px;
+  background-color:yellow;
+  padding:30px;
+}
+
+footer p{
+  border:2px solid black;
+  padding:4px;
+  background-color:rgba(109, 204, 226);
+}
